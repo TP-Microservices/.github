@@ -7,7 +7,7 @@
   <h3 align="center">Our Organization</h3>
 
   <p align="center">
-    Contains differenet architectural solutions
+    Contains different architectural solutions
   </p>
 </div>
 
@@ -18,7 +18,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Organization</a></li>
-    <li><a href="#members">Members</a></li>
+    <li><a href="#members">Members of the Organization</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
   </ol>
 </details>
@@ -41,7 +41,7 @@ It tackle the:
 <!-- MEMBER -->
 ## Members of the Organization
 
-The team behind it is :  
+The team behind it is :    
   1- Essia Ben Hamida.  
   2- Aycha Abid.  
   3- Maissa Jaziri.  
