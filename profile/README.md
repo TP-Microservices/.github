@@ -7,7 +7,7 @@
   <h3 align="center">Our Organization</h3>
 
   <p align="center">
-    Contains different architectural solutions
+    This repository contains different architectural solutions
   </p>
 </div>
 
