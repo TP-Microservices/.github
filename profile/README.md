@@ -67,7 +67,7 @@ You can either clone the entire repo or your preferred project.
 <!-- PROJECTS -->
 ## The Projects
 
-The different projects done 
+Detailed description of each project will be available in the correspondant repository.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
