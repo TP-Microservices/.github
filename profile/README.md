@@ -18,7 +18,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Organization</a></li>
-    <li><a href="#members">Members of the Organization</a></li>
+    <li><a href="#Members-of-the-Organization">Members of the Organization</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
   </ol>
 </details>
