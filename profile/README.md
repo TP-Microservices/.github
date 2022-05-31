@@ -20,6 +20,7 @@
     <li><a href="#about-the-project">About The Organization</a></li>
     <li><a href="#Members-of-the-Organization">Members of the Organization</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#the-projects">The projects</a></li>
   </ol>
 </details>
 
@@ -63,8 +64,8 @@ You can either clone the entire repo or your preferred project.
 3- Try it out.  
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- PROJECTS -->
+## The Projects
 
 The different projects done 
 
